@@ -7,4 +7,6 @@ It is a Work in Progress.
 
 # Technologies Used:
 - Ionic Framework
-- Vanilla Javascrip
+- Vanilla Javascript
+## App Frontend 
+<img src="ionic.png">
